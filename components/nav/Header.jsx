@@ -32,11 +32,11 @@ const Header = ({ setOverlay }) => {
             duration={300}
             href="/#home"
           >
-            {/* <img
-              src="/Logos/Logo-text-dark.png"
+             <img
+              src="/Logos/logo.png"
               alt="logo"
-              className="h-[40px] w-[160px] cursor-pointer"
-            /> */}
+              className="h-[60px] w-[70px] cursor-pointer"
+            /> 
           </Link>
           <div className="flex flex-row items-center gap-12">
             <nav className="hidden lg:flex">
