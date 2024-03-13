@@ -68,8 +68,8 @@ const SideBar = ({ active, handleClick }) => {
           <FaPhoneAlt className="w-[30px] h-[30px] text-palette-1" />
           <div>
             <h4>Call Today</h4>
-            <a href="tel://+61439439391">
-              <p className="text-xl font-bold hover:text-palette-2 transition duration-300">0439 439 391</p>
+            <a href="tel://+254790735987">
+              <p className="text-xl font-bold hover:text-palette-2 transition duration-300">0790735987</p>
             </a>
           </div>
         </div>

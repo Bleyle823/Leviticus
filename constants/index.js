@@ -144,29 +144,29 @@ export const guarantee = [
 
 export const latestProjects = [
   {
-    id: 'project-1',
-    imgUrl: '',
-    title: 'Project 1',
+    id: 'Step One',
+    imgUrl: '/screenshots/fire-demo1.jpg',
+    title: 'Step 1',
   },
   {
-    id: 'project-2',
-    imgUrl: '',
-    title: 'Project 2',
+    id: 'Step Two ',
+    imgUrl: '/screenshots/fire-demo3.jpg',
+    title: 'Step 2',
   },
   {
-    id: 'project-3',
-    imgUrl: '',
-    title: 'Project 3',
+    id: 'Step Three',
+    imgUrl: '/screenshots/fire-demo2.jpg',
+    title: 'Step 3',
   },
   {
-    id: 'project-4',
-    imgUrl: '',
-    title: 'Project 4',
+    id: 'Step Four',
+    imgUrl: '/screenshots/fire-demo.jpg',
+    title: 'Step 4',
   },
   {
-    id: 'project-5',
-    imgUrl: '',
-    title: 'Project 5',
+    id: 'Step Five',
+    imgUrl: '/screenshots/fire-demo.jpg',
+    title: 'Step 5',
   },
 ];
 
@@ -274,7 +274,7 @@ export const socials = [
   {
     name: 'email',
     icon: MdEmail,
-    href: '#'
+    href: 'https://mail.google.com/mail/u/0/#search/levictuskenya%40gmail.com?compose=new'
   }
 ];
 
@@ -282,19 +282,19 @@ export const contact = [
   {
     name: 'location',
     icon: TiLocation,
-    content: 'Nairobi, Kenya',
+    content: 'Po Box 62252 00200,     Nairobi, Kenya',
     url: ''
   },
   {
     name: 'email',
     icon: MdEmail,
-    content: 'myemail@gmail.com',
-    url: ''
+    content: 'levictuskenya@gmail.com',
+    url: 'https://mail.google.com/mail/u/0/#search/levictuskenya%40gmail.com?compose=new'
   },
   {
     name: 'phone',
     icon: FaPhoneAlt,
-    content: '0705297628',
+    content: '+254720695289',
     url: 'tel:0705297628'
   }
 ];

@@ -282,19 +282,19 @@ export const contact = [
   {
     name: 'location',
     icon: TiLocation,
-    content: 'Northern Beaches, Sydney',
-    url: 'https://goo.gl/maps/uWJAxEnVrjFuUeSH7'
+    content: '',
+    url: ''
   },
   {
     name: 'email',
     icon: MdEmail,
-    content: 'bythesealandscapes@gmail.com',
-    url: 'mailto:bythesealandscapes@gmail.com'
+    content: 'levictuskenya@gmail.com',
+    url: ''
   },
   {
     name: 'phone',
     icon: FaPhoneAlt,
-    content: '0439 439 391',
-    url: 'tel:0439439391'
+    content: '+254790735987',
+    url: 'tel:0790735987'
   }
 ];
