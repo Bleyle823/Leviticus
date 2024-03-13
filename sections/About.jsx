@@ -95,6 +95,7 @@ Our smart building systems include:<br/><br/>
 16. Fire Suppression Systems<br/>
 17. Air Conditioners<br/>
 18. Electric Fence<br/>
+19.OSHA trainings, i.e., fire safety, fire marshals training, first aid training, and other occupational health and safety training and audits
               </p>
             </div>
 
