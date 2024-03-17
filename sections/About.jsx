@@ -88,14 +88,11 @@ Our smart building systems include:<br/><br/>
 9. Intrusion and Security Systems<br/>
 10. Computerized Guard Patrol Systems<br/>
 11. Security Bollards and Car Barriers<br/>
-12. Website Design & Hosting Services<br/>
-13. Digital Branding<br/>
-14. ICT Support Services<br/>
-14. Fire Detection and Voice Evacuation Systems<br/>
-16. Fire Suppression Systems<br/>
-17. Air Conditioners<br/>
-18. Electric Fence<br/>
-19.OSHA trainings, i.e., fire safety, fire marshals training, first aid training, and other occupational health and safety training and audits
+12. ICT Support Services<br/>
+13. Fire Detection and Voice Evacuation Systems<br/>
+14. Fire Suppression Systems<br/>
+15. Electric Fence<br/>
+16.OSHA trainings, i.e., fire safety, fire marshals training, first aid training, and other occupational health and safety training and audits
               </p>
             </div>
 
