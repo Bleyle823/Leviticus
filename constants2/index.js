@@ -209,7 +209,7 @@ export const blog = [
     ],
   },
   {
-    id: 'blog-2',
+    id: 'blog-3',
     date: 'May 15, 2023',
     imgUrl: '/imgs/sprinkler.jpg',
     title: "Mastering the Basics: Lawn Care 101",

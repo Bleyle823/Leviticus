@@ -1,7 +1,7 @@
 'use client';
 
 import { Header, Footer, BackToTop } from '../components';
-import { Hero, About, Services,  Explore, WhyChooseUs, Blog, Reviews, FollowUs, GetInTouch } from '../sections';
+import { Hero, About, Services,  Explore, WhyChooseUs, Blog, Reviews, FollowUs, GetInTouch, Gallery } from '../sections';
 
 import { useState } from 'react';
 import { useRef } from 'react';
@@ -27,7 +27,8 @@ const Page = () => {
         
         <WhyChooseUs /> 
         <Explore />
-        {/* <Blog /> */}
+        {/* <Gallery /> */}
+         <Blog /> 
          <Reviews /> 
         <GetInTouch />
         {/* <FollowUs /> */}

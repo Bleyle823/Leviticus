@@ -173,10 +173,8 @@ export const latestProjects = [
 export const blog = [
   {
     id: 'blog-1',
-    date: 'May 20, 2023',
-    imgUrl: '/imgs/vertical-garden.jpg',
-    title: 'Making The Most of Small Spaces',
-    subtitle: 'Landscaping Ideas for Compact Yards',
+    imgUrl: '/imgs/Extinguisher.jpg',
+    subtitle: 'Fire Extinguisher',
     sections: [
       {
         heading: '',
@@ -210,10 +208,51 @@ export const blog = [
   },
   {
     id: 'blog-2',
-    date: 'May 15, 2023',
-    imgUrl: '/imgs/sprinkler.jpg',
-    title: "Mastering the Basics: Lawn Care 101",
-    subtitle: "A Comprehensive Guide to Achieving a Healthy and Vibrant Lawn",
+    imgUrl: '/imgs/Fire-Blanket.jpg',
+    subtitle: "Fire Blanket",
+    sections: [
+      {
+        heading: "",
+        content: "Maintaining a lush and vibrant lawn requires proper care and attention. From mowing to watering and fertilizing, understanding the basics of lawn care is essential for achieving a beautiful outdoor space. In this comprehensive guide, we will take you through the fundamental practices of lawn care, providing expert tips and insights to help you achieve a healthy and vibrant lawn that will be the envy of the neighborhood."
+      },
+      {
+        heading: "1. Mowing",
+        content: "Mowing your lawn correctly is crucial for its overall health and appearance. Set your mower blades to the appropriate height, typically between 2.5 to 3 inches. Regularly mow the grass, ensuring you never remove more than one-third of the blade's height in a single mowing session. This practice prevents stress on the grass and promotes strong root development."
+      },
+      {
+        heading: "2. Watering",
+        content: "Proper watering is essential for the health of your lawn. Water deeply and infrequently, aiming for approximately 1 inch of water per week, including rainfall. Watering deeply encourages the grass roots to grow deeper into the soil, making the lawn more resilient to drought. Watering in the early morning helps minimize water evaporation and allows the grass to dry before evening, reducing the risk of fungal diseases."
+      },
+      {
+        heading: "3. Fertilizing",
+        content: "Regular fertilization provides the necessary nutrients for your lawn to thrive. Begin by conducting a soil test to determine the specific nutrient needs of your lawn. Choose a high-quality, slow-release fertilizer that matches those requirements. Apply the fertilizer according to the recommended schedule, typically in early spring and fall. Avoid over-fertilizing, as it can lead to excessive growth and weaken the grass."
+      },
+      {
+        heading: "4. Weed Control",
+        content: "Weeds can quickly invade a lawn, competing with grass for resources and spoiling its appearance. Implement an effective weed control strategy, which includes regular mowing, proper watering, and applying pre-emergent herbicides in early spring to prevent weed seeds from germinating. For existing weeds, use selective herbicides that target specific weed types while sparing the grass."
+      },
+      {
+        heading: "5. Aeration",
+        content: "Compacted soil can hinder the healthy growth of grass roots. Regularly aerate your lawn, especially in high-traffic areas, to alleviate soil compaction. Core aerators remove small plugs of soil, allowing air, water, and nutrients to penetrate the root zone. This process promotes better nutrient absorption and root development."
+      },
+      {
+        heading: "6. Overseeding",
+        content: "Over time, lawns may develop thin or bare patches. Overseeding is the process of spreading grass seed over existing turf to fill in these areas and promote a denser lawn. Before overseeding, prepare the soil by raking and removing debris. Choose a grass seed blend that matches your existing lawn and follow the recommended seeding rates. Water the overseeded areas regularly to keep the soil moist for optimal seed germination."
+      },
+      {
+        heading: "7. Pest and Disease Management",
+        content: "Monitor your lawn for signs of pests and diseases, such as brown patches, chewed grass blades, or unusual discoloration. Proper cultural practices, such as regular mowing, watering, and fertilizing, contribute to the overall health of the lawn and make it more resistant to pests and diseases. If necessary, consult with a professional for targeted pest or disease control measures."
+      },
+      {
+        heading: "",
+        content: "By mastering the basics of lawn care, you can transform your outdoor space into a healthy and vibrant oasis. Regular mowing, proper watering and fertilizing, effective weed control, aeration, overseeding, and vigilant pest and disease management are the keys to achieving a beautiful lawn. Remember, consistency and patience are essential. With dedication and adherence to these practices, you can enjoy a lush and inviting lawn that becomes the pride of your home."
+      },
+    ],
+  },
+  {
+    id: 'blog-2',
+    imgUrl: '/imgs/Fire-alarm.jpg',
+    subtitle: "Fire Alarm",
     sections: [
       {
         heading: "",

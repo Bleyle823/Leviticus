@@ -32,7 +32,7 @@ const BlogCard = ({ imgUrl, date, title, subtitle, sections, index }) => {
             <p className="opacity-60">{date}</p>
             <h4 className="font-sans font-light text-[20px] lg:text-[26px] xl:text-[20px] text-palette-1">{title}</h4>
             <p className="font-normal lg:text-[20px] xl:text-[14px] text-[14px]">{subtitle}</p>
-            <p className="opacity-60">{calculateReadTime(sections)} min read</p>
+            {/* <p className="opacity-60">{calculateReadTime(sections)} min read</p> */}
           </div>
           <div className="hidden lg:flex xl:hidden items-center justify-center w-[70px] h-[70px] rounded-full bg-transparent border-[1px] border-[#E0E0E0] cursor-pointer mx-8">
             <img
