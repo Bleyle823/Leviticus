@@ -17,20 +17,15 @@ const Blog = () => (
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
       <TypingText title='| Blog' textStyles='text-center' />
-      <TitleText title='Fire Equipment Photos' textStyles='text-center' />
+      <TitleText title='Latest Posts' textStyles='text-center' />
 
       <div className={`mt-[70px] flex flex-col xl:flex-row wrap gap-[30px] max-w-[1000px] mx-auto`}>
-        {blog.map((item, index) => (
-          <BlogCard 
-            key={item.id}
-            imgUrl={item.imgUrl}
-            date={item.date}
-            title={item.title}
-            subtitle={item.subtitle}
-            sections={item.sections}
-            index={index}
-          />
-        ))}
+      <div class="grid grid-cols-1 gap-4 lg:grid-cols-4 lg:gap-8">
+  <div class="h-32 rounded-lg bg-gray-200"></div>
+  <div class="h-32 rounded-lg bg-gray-200"></div>
+  <div class="h-32 rounded-lg bg-gray-200"></div>
+  <div class="h-32 rounded-lg bg-gray-200"></div>
+</div>
       </div>
     </motion.div>
   </section>
